@@ -9,7 +9,7 @@ Este es un mini juego en Python donde el jugador tiene que adivinar un número s
 2. La computadora elegirá un número al azar entre 1 y 100.
 3. Solo tienes 7 intentos.
 4. Introduce tu intento y presiona Enter.
-5. La computadora te dirá si tu intento es **demasiado alto**, **demasiado bajo** o **inválido**
+5. La computadora te dirá si tu intento es **demasiado alto**, **demasiado bajo** o **inválido**.
 6. Sigue intentando hasta adivinar el número correcto.
 7. ¡Al acertar, recibirás una felicitación y el número de intentos realizados!
 
@@ -33,3 +33,4 @@ Autor
 Santiago / Santi
 
 Portfolio GitHub: SanPYago
+
